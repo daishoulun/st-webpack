@@ -1,0 +1,8 @@
+{
+  // comment
+  title: 'JSON5 EXAMPLE',
+  owner: {
+    name: 'xiaoming',
+    organization: 'Github'
+  }
+}
