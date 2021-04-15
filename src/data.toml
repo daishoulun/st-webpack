@@ -1,0 +1,6 @@
+title = "TOML EXAMPLE"
+[owner]
+name = "Tom Perston-Werner"
+organization = "Github"
+bio = "Github Cofounder & CEO\nLikes tater tots and beer."
+dob = 1979-05-27T07:32:00Z
