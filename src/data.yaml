@@ -1,0 +1,8 @@
+title: Yaml Example
+owner:
+  name: Tom Preston-Werner
+  organization: Github
+  bio: |-
+    GitHub Cofounder & CEO
+    Likes tater tots and beer.
+  dob: 1979-05-27T07:32:00.000Z
